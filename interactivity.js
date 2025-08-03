@@ -1,5 +1,4 @@
-// display grid 
-
+// display grid
 const parentNode = document.querySelector('#main-grid')
 
 const message = 'Enter the number of pixels you want each side of the sketch box to have. Max number of pixeled allowed is 50.'
