@@ -1,0 +1,18 @@
+/* * {
+    outline: solid red;
+} */
+
+#main-grid {
+    display: flex;
+    flex-wrap: wrap;
+    width: 320px;
+    flex-shrink: 0;
+    border: solid red 20px;
+    border-radius: 12px;
+    margin: 40px;
+}
+
+#grid-div {
+    display: flex;
+    justify-content: center;
+}
