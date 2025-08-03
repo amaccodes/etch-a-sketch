@@ -43,9 +43,7 @@ button.addEventListener('click', () => {
         divElement.style.backgroundColor = 'black'
     })
     parentNode.appendChild(divElement)
-}
-    
-}
-)
+    }
+})
 
 
