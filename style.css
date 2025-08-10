@@ -1,6 +1,10 @@
- * {
+/*
+
+* {
     outline: solid red;
 } 
+
+*/
 
 #main-grid {
     display: flex;
