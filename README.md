@@ -1,6 +1,10 @@
 # 🎨 Etch-a-Sketch
 
-This is a browser-based **Etch-a-Sketch** drawing app built using **HTML**, **CSS**, and **JavaScript**. It's one of the early projects from [The Odin Project](https://www.theodinproject.com/), designed to practice DOM manipulation, event handling, and dynamic layout generation with JavaScript.
+This is a browser-based **Etch-a-Sketch** drawing app built using **HTML**, **CSS**, and **JavaScript**. It's one of the early projects from [The Odin Project](https://www.theodinproject.com/), designed to practice DOM manipulation, event handling, and dynamic layout generation with JavaScript. 
+
+---
+
+**See the project here:** [https://amaccodes.github.io/etch-a-sketch/](url)
 
 ---
 
