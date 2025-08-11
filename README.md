@@ -4,8 +4,7 @@ This is a browser-based **Etch-a-Sketch** drawing app built using **HTML**, **CS
 
 ---
 
-**See the project here:** [https://amaccodes.github.io/etch-a-sketch/](url)
-
+**See the project here:** (https://amaccodes.github.io/etch-a-sketch/)
 ---
 
 ## 🧠 Project Goals
